@@ -1,4 +1,4 @@
-# Project NOEMA — Research Update
+# Project NOEMA — Stage 1 Complete 2026-09-02
 
 ## Qwen3-14B Reasoning Training Reaches 29/29 Final Decisions
 
