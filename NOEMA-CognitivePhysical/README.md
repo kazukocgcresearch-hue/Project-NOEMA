@@ -120,6 +120,7 @@ A video of the physical run will be added here.
 
 `media/active-vision-terra-demo.mp4`
 
+▶ [Watch the full GPT-6.1 Terra Active Vision demo on Substack](https://kazcgc.substack.com/p/noema-cognitivephysical)
 ---
 
 ## Research Scope
