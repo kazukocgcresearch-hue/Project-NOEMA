@@ -60,7 +60,7 @@ The robot had to:
 The target was not directly identifiable from the initial frontal observation.
 
 ![Initial robot view](media/active-vision-start.jpg)
-![Initial robot view](media/active-vision-start2.jpg)
+![Initial robot view](media/active-vision-start2.png)
 ---
 
 ## Occlusion Setup
